@@ -1,0 +1,20 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "multiple_netherite:netherite_copper_upgrade_smithing_template"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "ITI",
+      "IBI",
+      "III"
+    ],
+    "key": {
+	  "I": {"item": "minecraft:copper_ingot"},
+      "B": {"item": "minecraft:copper_block"},
+      "T":{"item":"minecraft:netherite_upgrade_smithing_template"}
+    },
+    "result": {"item": "multiple_netherite:netherite_copper_upgrade_smithing_template"}
+  }
+}

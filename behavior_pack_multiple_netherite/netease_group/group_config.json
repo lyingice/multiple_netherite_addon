@@ -1,0 +1,168 @@
+{
+  "groups": [
+    {
+      "group_name": "itemGroup.name.helmet",
+      "list": [
+        "multiple_netherite:netherite_diamond_helmet",
+        "multiple_netherite:netherite_emerald_helmet",
+        "multiple_netherite:netherite_iron_helmet",
+        "multiple_netherite:netherite_golden_helmet",
+        "multiple_netherite:netherite_amethyst_helmet",
+        "multiple_netherite:netherite_obsidian_helmet",
+        "multiple_netherite:netherite_redstone_helmet",
+        "multiple_netherite:netherite_echo_helmet",
+        "multiple_netherite:netherite_nether_star_helmet",
+        "multiple_netherite:netherite_copper_helmet",
+        "multiple_netherite:netherite_lapis_lazuli_helmet",
+        "multiple_netherite:advanced_netherite_helmet"
+      ]
+    },
+    {
+      "group_name": "itemGroup.name.chestplate",
+      "list": [
+        "multiple_netherite:netherite_diamond_chestplate",
+        "multiple_netherite:netherite_emerald_chestplate",
+        "multiple_netherite:netherite_iron_chestplate",
+        "multiple_netherite:netherite_golden_chestplate",
+        "multiple_netherite:netherite_amethyst_chestplate",
+        "multiple_netherite:netherite_obsidian_chestplate",
+        "multiple_netherite:netherite_redstone_chestplate",
+        "multiple_netherite:netherite_echo_chestplate",
+        "multiple_netherite:netherite_nether_star_chestplate",
+        "multiple_netherite:netherite_copper_chestplate",
+        "multiple_netherite:netherite_lapis_lazuli_chestplate",
+        "multiple_netherite:advanced_netherite_chestplate"
+      ]
+    },
+    {
+      "group_name": "itemGroup.name.leggings",
+      "list": [
+        "multiple_netherite:netherite_diamond_leggings",
+        "multiple_netherite:netherite_emerald_leggings",
+        "multiple_netherite:netherite_iron_leggings",
+        "multiple_netherite:netherite_golden_leggings",
+        "multiple_netherite:netherite_amethyst_leggings",
+        "multiple_netherite:netherite_obsidian_leggings",
+        "multiple_netherite:netherite_redstone_leggings",
+        "multiple_netherite:netherite_echo_leggings",
+        "multiple_netherite:netherite_nether_star_leggings",
+        "multiple_netherite:netherite_copper_leggings",
+        "multiple_netherite:netherite_lapis_lazuli_leggings",
+        "multiple_netherite:advanced_netherite_leggings"
+      ]
+    },
+    {
+      "group_name": "itemGroup.name.boots",
+      "list": [
+        "multiple_netherite:netherite_diamond_boots",
+        "multiple_netherite:netherite_emerald_boots",
+        "multiple_netherite:netherite_iron_boots",
+        "multiple_netherite:netherite_golden_boots",
+        "multiple_netherite:netherite_amethyst_boots",
+        "multiple_netherite:netherite_obsidian_boots",
+        "multiple_netherite:netherite_redstone_boots",
+        "multiple_netherite:netherite_echo_boots",
+        "multiple_netherite:netherite_nether_star_boots",
+        "multiple_netherite:netherite_copper_boots",
+        "multiple_netherite:netherite_lapis_lazuli_boots",
+        "multiple_netherite:advanced_netherite_boots"
+      ]
+    },
+    {
+      "group_name": "itemGroup.name.sword",
+      "list": [
+        "multiple_netherite:netherite_diamond_sword",
+        "multiple_netherite:netherite_emerald_sword",
+        "multiple_netherite:netherite_iron_sword",
+        "multiple_netherite:netherite_golden_sword",
+        "multiple_netherite:netherite_amethyst_sword",
+        "multiple_netherite:netherite_obsidian_sword",
+        "multiple_netherite:netherite_redstone_sword",
+        "multiple_netherite:netherite_echo_sword",
+        "multiple_netherite:netherite_nether_star_sword",
+        "multiple_netherite:netherite_copper_sword",
+        "multiple_netherite:netherite_lapis_lazuli_sword"
+      ]
+    },
+    {
+      "group_name": "itemGroup.name.pickaxe",
+      "list": [
+        "multiple_netherite:netherite_diamond_pickaxe",
+        "multiple_netherite:netherite_emerald_pickaxe",
+        "multiple_netherite:netherite_iron_pickaxe",
+        "multiple_netherite:netherite_golden_pickaxe",
+        "multiple_netherite:netherite_amethyst_pickaxe",
+        "multiple_netherite:netherite_obsidian_pickaxe",
+        "multiple_netherite:netherite_redstone_pickaxe",
+        "multiple_netherite:netherite_echo_pickaxe",
+        "multiple_netherite:netherite_nether_star_pickaxe",
+        "multiple_netherite:netherite_copper_pickaxe",
+        "multiple_netherite:netherite_lapis_lazuli_pickaxe"
+      ]
+    },
+    {
+      "group_name": "itemGroup.name.axe",
+      "list": [
+        "multiple_netherite:netherite_diamond_axe",
+        "multiple_netherite:netherite_emerald_axe",
+        "multiple_netherite:netherite_iron_axe",
+        "multiple_netherite:netherite_golden_axe",
+        "multiple_netherite:netherite_amethyst_axe",
+        "multiple_netherite:netherite_obsidian_axe",
+        "multiple_netherite:netherite_redstone_axe",
+        "multiple_netherite:netherite_echo_axe",
+        "multiple_netherite:netherite_nether_star_axe",
+        "multiple_netherite:netherite_copper_axe",
+        "multiple_netherite:netherite_lapis_lazuli_axe"
+      ]
+    },
+    {
+      "group_name": "itemGroup.name.shovel",
+      "list": [
+        "multiple_netherite:netherite_diamond_shovel",
+        "multiple_netherite:netherite_emerald_shovel",
+        "multiple_netherite:netherite_iron_shovel",
+        "multiple_netherite:netherite_golden_shovel",
+        "multiple_netherite:netherite_amethyst_shovel",
+        "multiple_netherite:netherite_obsidian_shovel",
+        "multiple_netherite:netherite_redstone_shovel",
+        "multiple_netherite:netherite_echo_shovel",
+        "multiple_netherite:netherite_nether_star_shovel",
+        "multiple_netherite:netherite_copper_shovel",
+        "multiple_netherite:netherite_lapis_lazuli_shovel"
+      ]
+    },
+    {
+      "group_name": "itemGroup.name.hoe",
+      "list": [
+        "multiple_netherite:netherite_diamond_hoe",
+        "multiple_netherite:netherite_emerald_hoe",
+        "multiple_netherite:netherite_iron_hoe",
+        "multiple_netherite:netherite_golden_hoe",
+        "multiple_netherite:netherite_amethyst_hoe",
+        "multiple_netherite:netherite_obsidian_hoe",
+        "multiple_netherite:netherite_redstone_hoe",
+        "multiple_netherite:netherite_echo_hoe",
+        "multiple_netherite:netherite_nether_star_hoe",
+        "multiple_netherite:netherite_copper_hoe",
+        "multiple_netherite:netherite_lapis_lazuli_hoe"
+      ]
+    },
+    {
+      "group_name": "itemGroup.name.smithing_templates",
+      "list": [
+        "multiple_netherite:netherite_diamond_upgrade_smithing_template",
+        "multiple_netherite:netherite_emerald_upgrade_smithing_template",
+        "multiple_netherite:netherite_iron_upgrade_smithing_template",
+        "multiple_netherite:netherite_gold_upgrade_smithing_template",
+        "multiple_netherite:netherite_amethyst_upgrade_smithing_template",
+        "multiple_netherite:netherite_obsidian_upgrade_smithing_template",
+        "multiple_netherite:netherite_redstone_upgrade_smithing_template",
+        "multiple_netherite:netherite_echo_upgrade_smithing_template",
+        "multiple_netherite:netherite_nether_star_upgrade_smithing_template",
+        "multiple_netherite:netherite_copper_upgrade_smithing_template",
+        "multiple_netherite:netherite_lapis_lazuli_upgrade_smithing_template"
+      ]
+    }
+  ]
+}

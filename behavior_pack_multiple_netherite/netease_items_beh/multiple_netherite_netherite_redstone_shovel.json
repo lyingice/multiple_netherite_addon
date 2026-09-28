@@ -1,0 +1,28 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "multiple_netherite:netherite_redstone_shovel",
+      "category": "equipment",
+      "custom_item_type": "weapon"
+    },
+    "components": {
+      "minecraft:max_stack_size": 1,
+      "minecraft:max_damage": 2031,
+      "minecraft:hand_equipped": true,
+      "netease:weapon": {
+        "type": "shovel",
+        "level": 4,
+        "speed": 19,
+        "attack_damage": 5,
+        "enchantment": 15
+      },
+      "netease:fire_resistant": {
+        "value": true
+      },
+      "netease:customtips": {
+        "value": "§7已有升级基底：\n§9红石质"
+      }
+    }
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "resource_pack_name": "multiple_netherite",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "advanced_netherite_boots": {
+      "textures": "textures/items/advanced_netherite/advanced_netherite_boots"
+    },
+    "advanced_netherite_chestplate": {
+      "textures": "textures/items/advanced_netherite/advanced_netherite_chestplate"
+    },
+    "advanced_netherite_helmet": {
+      "textures": "textures/items/advanced_netherite/advanced_netherite_helmet"
+    },
+    "advanced_netherite_leggings": {
+      "textures": "textures/items/advanced_netherite/advanced_netherite_leggings"
+    },
+    "netherite_amethyst_axe": {
+      "textures": "textures/items/netherite_amethyst/netherite_amethyst_axe"
+    },
+    "netherite_amethyst_boots": {
+      "textures": "textures/items/netherite_amethyst/netherite_amethyst_boots"
+    },
+    "netherite_amethyst_chestplate": {
+      "textures": "textures/items/netherite_amethyst/netherite_amethyst_chestplate"
+    },
+    "netherite_amethyst_helmet": {
+      "textures": "textures/items/netherite_amethyst/netherite_amethyst_helmet"
+    },
+    "netherite_amethyst_hoe": {
+      "textures": "textures/items/netherite_amethyst/netherite_amethyst_hoe"
+    },
+    "netherite_amethyst_leggings": {
+      "textures": "textures/items/netherite_amethyst/netherite_amethyst_leggings"
+    },
+    "netherite_amethyst_pickaxe": {
+      "textures": "textures/items/netherite_amethyst/netherite_amethyst_pickaxe"
+    },
+    "netherite_amethyst_shovel": {
+      "textures": "textures/items/netherite_amethyst/netherite_amethyst_shovel"
+    },
+    "netherite_amethyst_sword": {
+      "textures": "textures/items/netherite_amethyst/netherite_amethyst_sword"
+    },
+    "netherite_amethyst_upgrade_smithing_template": {
+      "textures": "textures/items/template/netherite_amethyst_upgrade_smithing_template"
+    },
+    "netherite_copper_axe": {
+      "textures": "textures/items/netherite_copper/netherite_copper_axe"
+    },
+    "netherite_copper_boots": {
+      "textures": "textures/items/netherite_copper/netherite_copper_boots"
+    },
+    "netherite_copper_chestplate": {
+      "textures": "textures/items/netherite_copper/netherite_copper_chestplate"
+    },
+    "netherite_copper_helmet": {
+      "textures": "textures/items/netherite_copper/netherite_copper_helmet"
+    },
+    "netherite_copper_hoe": {
+      "textures": "textures/items/netherite_copper/netherite_copper_hoe"
+    },
+    "netherite_copper_leggings": {
+      "textures": "textures/items/netherite_copper/netherite_copper_leggings"
+    },
+    "netherite_copper_pickaxe": {
+      "textures": "textures/items/netherite_copper/netherite_copper_pickaxe"
+    },
+    "netherite_copper_shovel": {
+      "textures": "textures/items/netherite_copper/netherite_copper_shovel"
+    },
+    "netherite_copper_sword": {
+      "textures": "textures/items/netherite_copper/netherite_copper_sword"
+    },
+    "netherite_copper_upgrade_smithing_template": {
+      "textures": "textures/items/template/netherite_copper_upgrade_smithing_template"
+    },
+    "netherite_diamond_axe": {
+      "textures": "textures/items/netherite_diamond/netherite_diamond_axe"
+    },
+    "netherite_diamond_boots": {
+      "textures": "textures/items/netherite_diamond/netherite_diamond_boots"
+    },
+    "netherite_diamond_chestplate": {
+      "textures": "textures/items/netherite_diamond/netherite_diamond_chestplate"
+    },
+    "netherite_diamond_helmet": {
+      "textures": "textures/items/netherite_diamond/netherite_diamond_helmet"
+    },
+    "netherite_diamond_hoe": {
+      "textures": "textures/items/netherite_diamond/netherite_diamond_hoe"
+    },
+    "netherite_diamond_leggings": {
+      "textures": "textures/items/netherite_diamond/netherite_diamond_leggings"
+    },
+    "netherite_diamond_pickaxe": {
+      "textures": "textures/items/netherite_diamond/netherite_diamond_pickaxe"
+    },
+    "netherite_diamond_shovel": {
+      "textures": "textures/items/netherite_diamond/netherite_diamond_shovel"
+    },
+    "netherite_diamond_sword": {
+      "textures": "textures/items/netherite_diamond/netherite_diamond_sword"
+    },
+    "netherite_diamond_upgrade_smithing_template": {
+      "textures": "textures/items/template/netherite_diamond_upgrade_smithing_template"
+    },
+    "netherite_echo_axe": {
+      "textures": "textures/items/netherite_echo/netherite_echo_axe"
+    },
+    "netherite_echo_boots": {
+      "textures": "textures/items/netherite_echo/netherite_echo_boots"
+    },
+    "netherite_echo_chestplate": {
+      "textures": "textures/items/netherite_echo/netherite_echo_chestplate"
+    },
+    "netherite_echo_helmet": {
+      "textures": "textures/items/netherite_echo/netherite_echo_helmet"
+    },
+    "netherite_echo_hoe": {
+      "textures": "textures/items/netherite_echo/netherite_echo_hoe"
+    },
+    "netherite_echo_leggings": {
+      "textures": "textures/items/netherite_echo/netherite_echo_leggings"
+    },
+    "netherite_echo_pickaxe": {
+      "textures": "textures/items/netherite_echo/netherite_echo_pickaxe"
+    },
+    "netherite_echo_shovel": {
+      "textures": "textures/items/netherite_echo/netherite_echo_shovel"
+    },
+    "netherite_echo_sword": {
+      "textures": "textures/items/netherite_echo/netherite_echo_sword"
+    },
+    "netherite_echo_upgrade_smithing_template": {
+      "textures": "textures/items/template/netherite_echo_upgrade_smithing_template"
+    },
+    "netherite_emerald_axe": {
+      "textures": "textures/items/netherite_emerald/netherite_emerald_axe"
+    },
+    "netherite_emerald_boots": {
+      "textures": "textures/items/netherite_emerald/netherite_emerald_boots"
+    },
+    "netherite_emerald_chestplate": {
+      "textures": "textures/items/netherite_emerald/netherite_emerald_chestplate"
+    },
+    "netherite_emerald_helmet": {
+      "textures": "textures/items/netherite_emerald/netherite_emerald_helmet"
+    },
+    "netherite_emerald_hoe": {
+      "textures": "textures/items/netherite_emerald/netherite_emerald_hoe"
+    },
+    "netherite_emerald_leggings": {
+      "textures": "textures/items/netherite_emerald/netherite_emerald_leggings"
+    },
+    "netherite_emerald_pickaxe": {
+      "textures": "textures/items/netherite_emerald/netherite_emerald_pickaxe"
+    },
+    "netherite_emerald_shovel": {
+      "textures": "textures/items/netherite_emerald/netherite_emerald_shovel"
+    },
+    "netherite_emerald_sword": {
+      "textures": "textures/items/netherite_emerald/netherite_emerald_sword"
+    },
+    "netherite_emerald_upgrade_smithing_template": {
+      "textures": "textures/items/template/netherite_emerald_upgrade_smithing_template"
+    },
+    "netherite_gold_upgrade_smithing_template": {
+      "textures": "textures/items/template/netherite_gold_upgrade_smithing_template"
+    },
+    "netherite_golden_axe": {
+      "textures": "textures/items/netherite_gold/netherite_golden_axe"
+    },
+    "netherite_golden_boots": {
+      "textures": "textures/items/netherite_gold/netherite_golden_boots"
+    },
+    "netherite_golden_chestplate": {
+      "textures": "textures/items/netherite_gold/netherite_golden_chestplate"
+    },
+    "netherite_golden_helmet": {
+      "textures": "textures/items/netherite_gold/netherite_golden_helmet"
+    },
+    "netherite_golden_hoe": {
+      "textures": "textures/items/netherite_gold/netherite_golden_hoe"
+    },
+    "netherite_golden_leggings": {
+      "textures": "textures/items/netherite_gold/netherite_golden_leggings"
+    },
+    "netherite_golden_pickaxe": {
+      "textures": "textures/items/netherite_gold/netherite_golden_pickaxe"
+    },
+    "netherite_golden_shovel": {
+      "textures": "textures/items/netherite_gold/netherite_golden_shovel"
+    },
+    "netherite_golden_sword": {
+      "textures": "textures/items/netherite_gold/netherite_golden_sword"
+    },
+    "netherite_iron_axe": {
+      "textures": "textures/items/netherite_iron/netherite_iron_axe"
+    },
+    "netherite_iron_boots": {
+      "textures": "textures/items/netherite_iron/netherite_iron_boots"
+    },
+    "netherite_iron_chestplate": {
+      "textures": "textures/items/netherite_iron/netherite_iron_chestplate"
+    },
+    "netherite_iron_helmet": {
+      "textures": "textures/items/netherite_iron/netherite_iron_helmet"
+    },
+    "netherite_iron_hoe": {
+      "textures": "textures/items/netherite_iron/netherite_iron_hoe"
+    },
+    "netherite_iron_leggings": {
+      "textures": "textures/items/netherite_iron/netherite_iron_leggings"
+    },
+    "netherite_iron_pickaxe": {
+      "textures": "textures/items/netherite_iron/netherite_iron_pickaxe"
+    },
+    "netherite_iron_shovel": {
+      "textures": "textures/items/netherite_iron/netherite_iron_shovel"
+    },
+    "netherite_iron_sword": {
+      "textures": "textures/items/netherite_iron/netherite_iron_sword"
+    },
+    "netherite_iron_upgrade_smithing_template": {
+      "textures": "textures/items/template/netherite_iron_upgrade_smithing_template"
+    },
+    "netherite_lapis_lazuli_axe": {
+      "textures": "textures/items/netherite_lapis_lazuli/netherite_lapis_lazuli_axe"
+    },
+    "netherite_lapis_lazuli_boots": {
+      "textures": "textures/items/netherite_lapis_lazuli/netherite_lapis_lazuli_boots"
+    },
+    "netherite_lapis_lazuli_chestplate": {
+      "textures": "textures/items/netherite_lapis_lazuli/netherite_lapis_lazuli_chestplate"
+    },
+    "netherite_lapis_lazuli_helmet": {
+      "textures": "textures/items/netherite_lapis_lazuli/netherite_lapis_lazuli_helmet"
+    },
+    "netherite_lapis_lazuli_hoe": {
+      "textures": "textures/items/netherite_lapis_lazuli/netherite_lapis_lazuli_hoe"
+    },
+    "netherite_lapis_lazuli_leggings": {
+      "textures": "textures/items/netherite_lapis_lazuli/netherite_lapis_lazuli_leggings"
+    },
+    "netherite_lapis_lazuli_pickaxe": {
+      "textures": "textures/items/netherite_lapis_lazuli/netherite_lapis_lazuli_pickaxe"
+    },
+    "netherite_lapis_lazuli_shovel": {
+      "textures": "textures/items/netherite_lapis_lazuli/netherite_lapis_lazuli_shovel"
+    },
+    "netherite_lapis_lazuli_sword": {
+      "textures": "textures/items/netherite_lapis_lazuli/netherite_lapis_lazuli_sword"
+    },
+    "netherite_lapis_lazuli_upgrade_smithing_template": {
+      "textures": "textures/items/template/netherite_lapis_lazuli_upgrade_smithing_template"
+    },
+    "netherite_nether_star_axe": {
+      "textures": "textures/items/netherite_nether_star/netherite_nether_star_axe"
+    },
+    "netherite_nether_star_boots": {
+      "textures": "textures/items/netherite_nether_star/netherite_nether_star_boots"
+    },
+    "netherite_nether_star_chestplate": {
+      "textures": "textures/items/netherite_nether_star/netherite_nether_star_chestplate"
+    },
+    "netherite_nether_star_helmet": {
+      "textures": "textures/items/netherite_nether_star/netherite_nether_star_helmet"
+    },
+    "netherite_nether_star_hoe": {
+      "textures": "textures/items/netherite_nether_star/netherite_nether_star_hoe"
+    },
+    "netherite_nether_star_leggings": {
+      "textures": "textures/items/netherite_nether_star/netherite_nether_star_leggings"
+    },
+    "netherite_nether_star_pickaxe": {
+      "textures": "textures/items/netherite_nether_star/netherite_nether_star_pickaxe"
+    },
+    "netherite_nether_star_shovel": {
+      "textures": "textures/items/netherite_nether_star/netherite_nether_star_shovel"
+    },
+    "netherite_nether_star_sword": {
+      "textures": "textures/items/netherite_nether_star/netherite_nether_star_sword"
+    },
+    "netherite_nether_star_upgrade_smithing_template": {
+      "textures": "textures/items/template/netherite_nether_star_upgrade_smithing_template"
+    },
+    "netherite_obsidian_axe": {
+      "textures": "textures/items/netherite_obsidian/netherite_obsidian_axe"
+    },
+    "netherite_obsidian_boots": {
+      "textures": "textures/items/netherite_obsidian/netherite_obsidian_boots"
+    },
+    "netherite_obsidian_chestplate": {
+      "textures": "textures/items/netherite_obsidian/netherite_obsidian_chestplate"
+    },
+    "netherite_obsidian_helmet": {
+      "textures": "textures/items/netherite_obsidian/netherite_obsidian_helmet"
+    },
+    "netherite_obsidian_hoe": {
+      "textures": "textures/items/netherite_obsidian/netherite_obsidian_hoe"
+    },
+    "netherite_obsidian_leggings": {
+      "textures": "textures/items/netherite_obsidian/netherite_obsidian_leggings"
+    },
+    "netherite_obsidian_pickaxe": {
+      "textures": "textures/items/netherite_obsidian/netherite_obsidian_pickaxe"
+    },
+    "netherite_obsidian_shovel": {
+      "textures": "textures/items/netherite_obsidian/netherite_obsidian_shovel"
+    },
+    "netherite_obsidian_sword": {
+      "textures": "textures/items/netherite_obsidian/netherite_obsidian_sword"
+    },
+    "netherite_obsidian_upgrade_smithing_template": {
+      "textures": "textures/items/template/netherite_obsidian_upgrade_smithing_template"
+    },
+    "netherite_redstone_axe": {
+      "textures": "textures/items/netherite_redstone/netherite_redstone_axe"
+    },
+    "netherite_redstone_boots": {
+      "textures": "textures/items/netherite_redstone/netherite_redstone_boots"
+    },
+    "netherite_redstone_chestplate": {
+      "textures": "textures/items/netherite_redstone/netherite_redstone_chestplate"
+    },
+    "netherite_redstone_helmet": {
+      "textures": "textures/items/netherite_redstone/netherite_redstone_helmet"
+    },
+    "netherite_redstone_hoe": {
+      "textures": "textures/items/netherite_redstone/netherite_redstone_hoe"
+    },
+    "netherite_redstone_leggings": {
+      "textures": "textures/items/netherite_redstone/netherite_redstone_leggings"
+    },
+    "netherite_redstone_pickaxe": {
+      "textures": "textures/items/netherite_redstone/netherite_redstone_pickaxe"
+    },
+    "netherite_redstone_shovel": {
+      "textures": "textures/items/netherite_redstone/netherite_redstone_shovel"
+    },
+    "netherite_redstone_sword": {
+      "textures": "textures/items/netherite_redstone/netherite_redstone_sword"
+    },
+    "netherite_redstone_upgrade_smithing_template": {
+      "textures": "textures/items/template/netherite_redstone_upgrade_smithing_template"
+    }
+  }
+}

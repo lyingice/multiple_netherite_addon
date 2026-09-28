@@ -1,0 +1,15 @@
+{
+  "format_version": "1.17",
+  "minecraft:recipe_smithing_transform": {
+    "description": {
+      "identifier": "multiple_netherite:netherite_iron_axe_iron_recipe"
+    },
+    "tags": [
+      "smithing_table"
+    ],
+    "base": "minecraft:iron_axe",
+    "addition": "minecraft:netherite_ingot",
+    "result": "multiple_netherite:netherite_iron_axe",
+    "template": "multiple_netherite:netherite_iron_upgrade_smithing_template"
+  }
+}

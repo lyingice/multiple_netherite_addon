@@ -1,0 +1,45 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Multiple Netherite Behavior Pack",
+    "description": "Multiple netherite variants, templates and smithing recipes",
+    "uuid": "90cf738e-9a33-4302-aeb1-d994064541ef",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      19,
+      0
+    ]
+  },
+  "metadata": {
+    "authors": [
+      "lyingice"
+    ],
+    "license": "MIT"
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "694043b4-a7d7-4017-a94d-53f6b90f212e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "3b036e74-1d14-4ad6-8ce0-d6aac133e2be",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

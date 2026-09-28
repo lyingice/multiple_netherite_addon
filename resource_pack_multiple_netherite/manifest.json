@@ -1,0 +1,35 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Multiple Netherite Resource Pack",
+    "description": "Multiple netherite variant items and armor",
+    "uuid": "3b036e74-1d14-4ad6-8ce0-d6aac133e2be",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      19,
+      0
+    ]
+  },
+  "metadata": {
+    "authors": [
+      "lyingice"
+    ],
+    "license": "MIT"
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "24a9af81-5cc4-4612-ac3d-1342d2d19057",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

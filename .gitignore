@@ -1,0 +1,34 @@
+# Python 字节码缓存
+__pycache__/
+*.py[cod]
+
+# MCStudio 本地编辑器状态（各机器不同，不参与协作）
+.mcs/
+
+# 本地私有笔记（只在本地保留，不上传）
+*.local.md
+
+# IDE / 编辑器
+.idea/
+.vscode/
+*.code-workspace
+*.sublime-*
+
+# Windows / macOS 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 日志与临时文件
+*.log
+*.tmp
+*.bak
+*~
+
+# 打包产物
+*.mcaddon
+*.mcpack
+*.mctemplate
+*.zip
+build/
+dist/

@@ -1,0 +1,28 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "multiple_netherite:netherite_obsidian_sword",
+      "category": "equipment",
+      "custom_item_type": "weapon"
+    },
+    "components": {
+      "minecraft:max_stack_size": 1,
+      "minecraft:max_damage": 3031,
+      "minecraft:hand_equipped": true,
+      "netease:weapon": {
+        "type": "sword",
+        "level": 4,
+        "speed": 9,
+        "attack_damage": 10,
+        "enchantment": 15
+      },
+      "netease:fire_resistant": {
+        "value": true
+      },
+      "netease:customtips": {
+        "value": "§7已有升级基底：\n§9黑曜石质"
+      }
+    }
+  }
+}

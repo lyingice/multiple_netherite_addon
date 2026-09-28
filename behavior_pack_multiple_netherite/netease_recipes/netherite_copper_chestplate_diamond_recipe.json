@@ -1,0 +1,15 @@
+{
+  "format_version": "1.17",
+  "minecraft:recipe_smithing_transform": {
+    "description": {
+      "identifier": "multiple_netherite:netherite_copper_chestplate_diamond_recipe"
+    },
+    "tags": [
+      "smithing_table"
+    ],
+    "base": "minecraft:diamond_chestplate",
+    "addition": "minecraft:netherite_ingot",
+    "result": "multiple_netherite:netherite_copper_chestplate",
+    "template": "multiple_netherite:netherite_copper_upgrade_smithing_template"
+  }
+}

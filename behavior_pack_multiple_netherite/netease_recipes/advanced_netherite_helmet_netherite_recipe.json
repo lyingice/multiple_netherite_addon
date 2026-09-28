@@ -1,0 +1,15 @@
+{
+  "format_version": "1.17",
+  "minecraft:recipe_smithing_transform": {
+    "description": {
+      "identifier": "multiple_netherite:advanced_netherite_helmet_netherite_recipe"
+    },
+    "tags": [
+      "smithing_table"
+    ],
+    "base": "minecraft:netherite_helmet",
+    "addition": "minecraft:netherite_ingot",
+    "result": "multiple_netherite:advanced_netherite_helmet",
+    "template": "minecraft:netherite_upgrade_smithing_template"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "multiple_netherite:netherite_obsidian_upgrade_smithing_template",
+      "category": "items"
+    },
+    "components": {
+      "minecraft:max_stack_size": 64,
+      "minecraft:tags": {
+        "tags": [
+          "minecraft:transform_templates"
+        ]
+      },
+      "netease:customtips": {
+        "value": "§7锻造模板\n§7可应用于：\n§9钻石装备\n§7原材料：\n§9下界合金锭"
+      }
+    }
+  }
+}

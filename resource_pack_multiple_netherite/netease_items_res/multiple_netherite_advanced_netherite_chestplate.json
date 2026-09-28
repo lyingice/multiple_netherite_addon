@@ -1,0 +1,12 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "multiple_netherite:advanced_netherite_chestplate",
+      "category": "equipment"
+    },
+    "components": {
+      "minecraft:icon": "advanced_netherite_chestplate"
+    }
+  }
+}

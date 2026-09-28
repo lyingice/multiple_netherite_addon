@@ -1,0 +1,29 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "multiple_netherite:netherite_nether_star_shovel",
+      "category": "equipment",
+      "custom_item_type": "weapon"
+    },
+    "components": {
+      "minecraft:max_stack_size": 1,
+      "minecraft:max_damage": 5031,
+      "minecraft:hand_equipped": true,
+      "netease:weapon": {
+        "type": "shovel",
+        "level": 4,
+        "speed": 12,
+        "attack_damage": 7,
+        "enchantment": 15
+      },
+      "netease:fire_resistant": {
+        "value": true
+      },
+      "minecraft:foil": true,
+      "netease:customtips": {
+        "value": "§7已有升级基底：\n§9下界之星质"
+      }
+    }
+  }
+}

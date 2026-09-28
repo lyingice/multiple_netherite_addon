@@ -1,0 +1,15 @@
+{
+  "format_version": "1.17",
+  "minecraft:recipe_smithing_transform": {
+    "description": {
+      "identifier": "multiple_netherite:netherite_obsidian_helmet_diamond_recipe"
+    },
+    "tags": [
+      "smithing_table"
+    ],
+    "base": "minecraft:diamond_helmet",
+    "addition": "minecraft:netherite_ingot",
+    "result": "multiple_netherite:netherite_obsidian_helmet",
+    "template": "multiple_netherite:netherite_obsidian_upgrade_smithing_template"
+  }
+}
